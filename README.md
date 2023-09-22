@@ -1,6 +1,6 @@
 ## My ingredients | Hi World ! &#128075;
 
-<img align="center" src="https://github.com/mikaela4518/mikaela4518/assets/143528080/117c75c3-f2b5-455e-b49b-559d9860d0f6" alt="just for fun">
+<img align="center" src="https://github.com/mikaela4518/mikaela4518/assets/143528080/6976bdb4-aedd-487b-9ce7-2b849b1ec10c" alt="just for fun">
 
 <h2 align="center"> &#128126; چگونه نازنین باشیم؟&#128126;</h2>
 
