@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github.com/mikaela4518/mikaela4518/assets/143528080/6976bdb4-aedd-487b-9ce7-2b849b1ec10c" alt="just for fun">
 
-<h2 align="center"> &#128126; چگونه نازنین باشیم؟&#128126;</h2>
+<h2 align="center"> &#128126; نازنین شریفی &#128126;</h2>
 
 <h3>Soft skills | مهارت های شخصیتی</h3>
 <p>   
@@ -10,7 +10,6 @@
  &#129309; مهارت ارتباطی بالا <br>
  &#127793; &#128214; عاشق یادگیری چیزهای جدید <br>
  &#128293; کنجکاوی و کمالگرایی <br>
-و داشتن ویژگی های نازنینی که هیچکس دیگه ای نداره ; چون هرکسی ویژگی خاص و قشنگ خودشو داره و تا وقتی که تو میتونی خودت باشی چرا میخوای نازنین باشی ؟ &#128521;
 
 </p>
 
@@ -22,4 +21,4 @@
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 
 <h3>social | راه های ارتباطی من</h3>
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
